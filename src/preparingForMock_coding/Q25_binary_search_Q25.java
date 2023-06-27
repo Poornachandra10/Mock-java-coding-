@@ -13,7 +13,7 @@ public class Q25_binary_search_Q25 {
 		int[] s = new int[length];
 		// int[] s= {10,30,20,40,50};
 
-		for (int i = 0; i <= s.length - 1; i++) {
+		for (int i = 0; i <=s.length - 1; i++) {
 			System.out.println("enter value: ");
 			s[i] = sc.nextInt();
 		}

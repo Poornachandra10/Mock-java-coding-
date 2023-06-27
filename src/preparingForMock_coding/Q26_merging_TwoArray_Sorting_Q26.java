@@ -18,6 +18,7 @@ public class Q26_merging_TwoArray_Sorting_Q26 {
 		
 		
 //******************************************
+	//this is just add the code
 		System.arraycopy(a, 0, newArr, 0, aLen);
 		System.arraycopy(b, 0, newArr, aLen, bLen);
 		//System.arraycopy(c, 0, newArr, bLen, cLen);
